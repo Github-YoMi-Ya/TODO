@@ -8,7 +8,8 @@
 > - [  &#x2716;  ] nuc显示器欺骗器            
 
 ### 工业相机标定
-> - [  &#x2714;  ] [工业相机标定参考](https://zhuanlan.zhihu.com/p/488925991?utm_id=0)  
+> - [工业相机标定参考教程](https://zhuanlan.zhihu.com/p/488925991?utm_id=0)
+> - [  &#x2714;  ] 工业相机标定
 
 ### 自瞄调参
 > - [  &#x2716;  ] (得装甲板搞完后才能调)
@@ -29,7 +30,8 @@
 融合D345i深度相机点云建图
 工业相机自瞄
 > - ubuntu20.04 LTS + Real-Time Kernel ROS2 Galactic
-> - [TUP2023-Sentry-Framework](https://github.com/tup-robomaster/TUP2023-Sentry-Framework/tree/main#rx)
+> -  [沈阳航空航天大学TUP战队2023年哨兵导航模块](https://github.com/tup-robomaster/TUP2023-Sentry-Nav/tree/02b77a72ef0a05879c58c0b785b2c7aabacc46c1)
+> - [沈阳航空航天大学TUP战队2023年哨兵框架](https://github.com/tup-robomaster/TUP2023-Sentry-Framework/tree/main#rx)
 
 #### 2.3D雷达+工业相机
 > - 适配君瞄
