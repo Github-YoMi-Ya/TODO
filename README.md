@@ -45,4 +45,5 @@
 ### 哨兵仿真搭建
 > - Ubuntu22.04 + ros2 Humble
 > - [深圳北理莫斯科大学 北极熊战队 哨兵导航仿真包](https://github.com/LihanChen2004/PB_RMSimulation)
+> - 已经部署到nuc上了
 
